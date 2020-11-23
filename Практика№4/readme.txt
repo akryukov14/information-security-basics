@@ -1,1 +1,1 @@
-
+MyPaSs=shifrovanie_7
